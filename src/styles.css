@@ -22,8 +22,8 @@ h2 {
   padding: 30px 20px 30px 20px;
   border-bottom: 1px dashed rgb(182, 176, 176);
 }
-.city :last-child {
-  border-bottom: none;
+.city:last-child {
+  border: none;
 }
 .container {
   background-color: white;
