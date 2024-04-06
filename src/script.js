@@ -46,7 +46,7 @@ function selectCityFunction(event) {
           ${newCityTime}
         </div>
       </div>
-    `;
+    <a class="homepage-link"href = "index.html">Back to homepage</a>`;
 }
 
 let selectDrop = document.querySelector("#select-drop");
